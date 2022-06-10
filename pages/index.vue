@@ -48,9 +48,7 @@
               issue board </a
             >.
           </p>
-          <p>
-            userから変更
-          </p>
+          <p>userから変更</p>
           <p>
             Thank you for developing with Vuetify and I look forward to bringing
             more exciting features in the future.
